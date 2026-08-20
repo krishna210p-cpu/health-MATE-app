@@ -1,0 +1,19 @@
+{
+  "name": "healthmate_mb",
+  "version": "1.0.0",
+  "description": "This repository contains an in-progress Flutter app that delivers verified health information in multiple Indian languages with text-to-speech, offline caching, and push notification support.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^13.5.0"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "@@locale": "bn",
+  "appTitle": "হেলথমেট",
+  "greeting": "HEY, {name}",
+  "topStories": "সর্বশেষ স্বাস্থ্য আপডেট",
+  "lastUpdated": "শেষ আপডেট",
+  "no_updates": "এখন কোনও আপডেট পাওয়া যায়নি।",
+  "retry": "আবার চেষ্টা করুন",
+  "showEnglish": "ইংরেজি আপডেট দেখুন",
+  "emergency": "জরুরি",
+  "nearby": "নিকটস্থ",
+  "report": "রিপোর্ট",
+  "book": "বুক করুন",
+  "selectLanguage": "ভাষা নির্বাচন করুন",
+  "settings_title": "সেটিংস",
+  "healthScore": "স্বাস্থ্য স্কোর",
+  "todayTip": "আজকের টিপ্",
+  "reminders": "রিমাইন্ডার",
+  "appointments": "অ্যাপয়েন্টমেন্ট",
+  "notifications": "নোটিফিকেশন",
+  "test_call": "টেস্ট কল",
+  "call_emergency": "জরুরি কল করুন",
+  "send_sos_sms": "অবস্থানসহ SOS SMS পাঠান",
+  "all": "সব",
+  "local": "স্থানীয়",
+  "national": "জাতীয়",
+  "international": "আন্তর্জাতিক",
+  "no_updates_in_lang": "{lang} এ কোন আপডেট নেই — ইংরেজি আপডেট দেখুন",
+  "profile": "প্রোফাইল",
+  "account": "অ্যাকাউন্ট",
+  "app_language": "অ্যাপ ভাষা",
+  "save": "সংরক্ষণ",
+  "article_title": "লেখা",
+  "campaigns": "অভিযান",
+  "local_campaigns": "স্থানীয় অভিযান",
+  "could_not_open": "লিংক খোলা যায়নি",
+  "upcoming_campaigns": "আসন্ন স্বাস্থ্য অভিযান",
+  "no_upcoming_campaigns": "কোনও আসন্ন অভিযান নেই",
+  "saved": "সংরক্ষণ করা হয়েছে",
+  "read_more": "আরও পড়ুন",
+  "find_hospitals": "নজেদিকের হাসপাতাল খুঁজুন",
+  "report_submitted": "রিপোর্ট জমা হয়েছে",
+  "booking_coming_soon": "বুকিং এবং অ্যাপয়েন্টমেন্ট শীঘ্রই আসছে",
+  "dob_not_set": "জন্ম তারিখ সেট নেই",
+  "set_dob": "জন্ম তারিখ সেট করুন",
+  "dateOfBirth": "জন্ম তারিখ",
+  "gender": "লিঙ্গ",
+  "age_label": "বয়স",
+  "vaccine_info": "টিকা তথ্য",
+  "describe_issue": "সমস্যার বিবরণ লিখুন...",
+  "submit": "জমা দিন",
+  "email": "ইমেল",
+  "edit": "সংশোধন"
+  ,"health_tip_title": "আজকের স্বাস্থ্য টিপ্"
+  ,"health_tip_example": "পানি রাখুন এবং নিয়মিত পান করুন।"
+  ,"save_success_message": "✅ আপনার ডেটা সফলভাবে সংরক্ষণ করা হয়েছে!"
+  ,"latest_updates_title": "সর্বশেষ স্বাস্থ্য আপডেট"
+  ,"vaccine_info_title": "টিকা সম্পর্কিত তথ্য"
+  ,"more_tips_title": "আরও টিপ্",
+  "more_tip_1": "নিয়মিত সাবান ও পানি দিয়ে হাত ধুয়ে নিন।",
+  "more_tip_2": "ফল এবং সবজি খান।",
+  "more_tip_3": "প্রতিদিন কমপক্ষে ৩০ মিনিট শরীরচর্চা করুন।",
+  "save_tip": "টিপ্ সংরক্ষণ করুন",
+  "tip_saved": "টিপ্ সংরক্ষিত"
+  ,"welcome_dialog_title": "Healthmate এ স্বাগতম"
+  ,"label_name": "নাম"
+  ,"skip": "স্কিপ করুন"
+  ,"could_not_open_dialer": "ডায়ালার খোলা যায়নি"
+}

@@ -1,0 +1,81 @@
+{
+  "@@locale": "hi",
+  "appTitle": "हेल्थमेट",
+  "greeting": "HEY, {name}",
+  "topStories": "ताज़ा स्वास्थ्य अपडेट",
+  "lastUpdated": "अंतिम अपडेट",
+  "no_updates": "इस समय कोई अपडेट उपलब्ध नहीं।",
+  "retry": "पुनः प्रयास करें",
+  "showEnglish": "अंग्रेज़ी अपडेट देखें",
+  "emergency": "आपातकाल",
+  "nearby": "पास के अस्पताल",
+  "report": "रिपोर्ट",
+  "book": "बुक करें",
+  "selectLanguage": "भाषा चुनें",
+  "settings_title": "सेटिंग्स",
+  "healthScore": "स्वास्थ्य स्कोर",
+  "todayTip": "आज का सुझाव",
+  "reminders": "रिमाइंडर",
+  "appointments": "अपॉइंटमेंट",
+  "notifications": "सूचनाएँ",
+  "test_call": "परीक्षण कॉल",
+  "call_emergency": "आपातकाल कॉल करें",
+  "send_sos_sms": "स्थान के साथ SOS SMS भेजें",
+  "all": "सभी",
+  "local": "स्थानीय",
+  "national": "राष्ट्रीय",
+  "international": "अंतरराष्ट्रीय",
+  "no_updates_in_lang": "{lang} में कोई अपडेट नहीं — अंग्रेज़ी अपडेट देखें",
+  "profile": "प्रोफ़ाइल",
+  "account": "खाता",
+  "app_language": "ऐप भाषा",
+  "save": "सहेजें",
+  "article_title": "लेख",
+  "campaigns": "अभियान",
+  "local_campaigns": "स्थानीय अभियान",
+  "could_not_open": "लिंक खोली नहीं जा सकी",
+  "upcoming_campaigns": "आगामी स्वास्थ्य अभियान",
+  "no_upcoming_campaigns": "कोई आगामी अभियान नहीं",
+  "saved": "सहेजा गया",
+  "read_more": "और पढ़ें",
+  "find_hospitals": "नज़दीकी अस्पताल खोजें",
+  "report_submitted": "रिपोर्ट जमा की गई",
+  "booking_coming_soon": "बुकिंग और नियुक्तियाँ जल्द आ रही हैं",
+  "dob_not_set": "जन्मतिथि सेट नहीं है",
+  "set_dob": "जन्मतिथि सेट करें",
+  "dateOfBirth": "जन्मतिथि",
+  "gender": "लिंग",
+  "age_label": "आयु",
+  "vaccine_info": "वैक्सीन जानकारी",
+  "describe_issue": "समस्या का वर्णन करें...",
+  "submit": "सबमिट",
+  "email": "ईमेल",
+  "edit": "संपादित"
+  ,"please_complete_all": "कृपया सभी आवश्यक फ़ील्ड भरें"
+  ,"preferred_language": "पसंदीदा भाषा"
+  ,"welcome": "स्वागत"
+  ,"onboarding_subtitle": "Healthmate आपके भाषा में सत्यापित स्वास्थ्य अपडेट और सरल आवाज़ विकल्प लाता है।"
+  ,"state_region": "राज्य / क्षेत्र"
+  ,"please_select_state": "कृपया एक राज्य चुनें"
+  ,"reading_assistance": "मुझे पढ़ने में सहायता चाहिए (बड़ा टेक्स्ट और आवाज़)"
+  ,"allow_critical_alerts": "महत्वपूर्ण स्वास्थ्य अलर्ट की अनुमति दें (पुश सूचनाएँ)"
+  ,"saving": "सहेजा जा रहा है..."
+  ,"get_started": "शुरू करें"
+  ,"change_language": "भाषा बदलें"
+  ,"health_tip_title": "आज का सुझाव"
+  ,"health_tip_example": "हाइड्रेटेड रहें — पानी की बोतल रखें और बार-बार पानी पियें।"
+  ,"save_success_message": "✅ आपका डेटा सफलतापूर्वक सहेजा गया!"
+  ,"latest_updates_title": "ताज़ा स्वास्थ्य अपडेट"
+  ,"vaccine_info_title": "वैक्सीन जानकारी"
+
+  ,"more_tips_title": "और सुझाव",
+  "more_tip_1": "नियमित रूप से साबुन और पानी से हाथ धोएं।",
+  "more_tip_2": "फल और सब्जियों के साथ संतुलित आहार लें।",
+  "more_tip_3": "प्रति दिन कम से कम 30 मिनट गतिविधि करें।",
+  "save_tip": "सुझाव सहेजें",
+  "tip_saved": "सुझाव सहेजा गया"
+  ,"welcome_dialog_title": "Healthmate में आपका स्वागत है"
+  ,"label_name": "नाम"
+  ,"skip": "छोड़ें"
+  ,"could_not_open_dialer": "डायलर खोलने में असमर्थ"
+}

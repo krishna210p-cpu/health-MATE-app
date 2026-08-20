@@ -1,0 +1,78 @@
+{
+  "@@locale": "ta",
+  "appTitle": "ஹெல்த்மேட்",
+  "greeting": "ஹாய், {name}",
+  "topStories": "சமீபத்திய உடல்நலம் செய்திகள்",
+  "lastUpdated": "சமீபத்தில் புதுப்பிக்கப்பட்டது",
+  "no_updates": "தற்போது எந்த புதுப்பிப்புகளும் கிடைக்கவில்லை.",
+  "retry": "மீண்டும் முயற்சி செய்",
+  "showEnglish": "ஆங்கில பதிவுகளை காண்க",
+  "emergency": "அவசரம்",
+  "nearby": "அருகிலுள்ளவை",
+  "report": "அறிக்கை",
+  "book": "முன்பதிவு",
+  "selectLanguage": "மொழியை தேர்ந்தெடுக்கவும்",
+  "settings_title": "அமைப்புகள்",
+  "healthScore": "ஆரோக்ய மதிப்பு",
+  "todayTip": "இன்றைய குறிப்புரை",
+  "reminders": " நினைவூட்டல்கள்",
+  "appointments": "நியமனங்கள்",
+  "notifications": "அறிவிப்புகள்",
+  "test_call": "சோதனை அழைப்பு",
+  "call_emergency": "அவசர அழைப்பு செய்",
+  "send_sos_sms": "இடத்துடன் SOS SMS அனுப்பு",
+  "all": "அனைத்து",
+  "local": "உள்ளூர்",
+  "national": "தேசிய",
+  "international": "சர்வதேச",
+  "no_updates_in_lang": "{lang} இல் புதுப்பிப்புகள் இல்லை — ஆங்கில பதிவுகளை காண்க",
+  "profile": "சுயவிவரம்",
+  "account": "கணக்கு",
+  "app_language": "அப் மொழி",
+  "save": "சேமிக்க",
+  "article_title": "கட்டுரை",
+  "campaigns": "அறிவிப்புகள்",
+  "local_campaigns": "உள்ளூர் செயல்கள்",
+  "could_not_open": "இணைப்பை திறக்க முடியவில்லை",
+  "upcoming_campaigns": "வரும் சுகாதார நிகழ்ச்சிகள்",
+  "no_upcoming_campaigns": "வரும் நிகழ்ச்சிகள் இல்லை",
+  "saved": "சேமிக்கப்பட்டது",
+  "read_more": "முழுமையாக படி",
+  "find_hospitals": "அருகிலுள்ள மருத்துவமனைகள்",
+  "report_submitted": "அறிக்கை சமர்ப்பிக்கப்பட்டது",
+  "booking_coming_soon": "முன்பதிவு எவ்விதம் விரைவில் வருகிறது",
+  "dob_not_set": "பிறந்த தேதி அமைக்கப்படவில்லை",
+  "set_dob": "பிறந்த தேதியை அமைக்கவும்",
+  "dateOfBirth": "பிறந்த தேதி",
+  "gender": "பாலினம்",
+  "age_label": "வயது",
+  "vaccine_info": "மரபணு தடுப்பு விவரம்",
+  "describe_issue": "பிரச்சினையை விவரிக்கவும்...",
+  "submit": "சமர்ப்பி",
+  "email": "மின்னஞ்சல்",
+  "edit": "தொகு"
+
+  ,"vaccine_bcg": "BCG"
+  ,"vaccine_opv_ipv": "OPV / IPV"
+  ,"vaccine_dpt": "DPT"
+  ,"vaccine_dpt_full": "டிஃப்தீரியா / டீட்டனஸ் / பெர்டஸிஸ் (DPT)"
+  ,"vaccine_tetanus_booster": "டீட்டனஸ் பூஸ்டர்"
+  ,"vaccine_typhoid": "டைபாய்ட்"
+  ,"vaccine_hpv": "HPV"
+  ,"vaccine_influenza": "காய்ச்சல் (இன்ஃப்ளூஎன்சா)"
+  ,"vaccine_none": "குறிப்பிட்ட தடுப்பூசிகள் இல்லை"
+
+  ,"status_up_to_date": "புதுப்பிக்கப்பட்டது"
+  ,"status_taken": "எடுத்து முடிந்தது"
+  ,"status_due": "காலாவதி"
+
+  ,"years": "வயது"
+  ,"female": "பெண்"
+  ,"male": "ஆண்"
+
+  ,"age_at_birth": "பிறப்பு நேரத்தில்"
+  ,"age_every_10_years": "ஒவ்வொரு 10 ஆண்டுகளுக்கு"
+  ,"age_annually_60": "ஒவ்வாண்டும் (60+ வயது)"
+  ,"age_from_2_years": "2 வயதிலிருந்து (அரசு திட்டப்படி)"
+  ,"age_booster_schedule": "திட்டமோத்தமாய் பூஸ்டர்"
+}

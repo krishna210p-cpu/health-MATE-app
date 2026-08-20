@@ -1,0 +1,23 @@
+[
+  {
+    "city": "Mumbai",
+    "title": "Free Eye Checkup Camp",
+    "date": "2025-10-10",
+    "location": "Andheri Sports Complex",
+    "details": "Organized by Mumbai Health Dept"
+  },
+  {
+    "city": "Thane",
+    "title": "Vaccination Drive",
+    "date": "2025-10-12",
+    "location": "Thane Civil Hospital",
+    "details": "Free vaccines for all ages"
+  },
+  {
+    "city": "Pune",
+    "title": "Community Health Screening",
+    "date": "2025-10-15",
+    "location": "Pune Municipal Hall",
+    "details": "Blood pressure and diabetes screening"
+  }
+]
